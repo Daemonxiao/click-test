@@ -8,7 +8,7 @@ with open(os.path.join(this_directory, "README.md")) as f:
 
 setup(
     name='typer-test-demo',
-    version='1.0',
+    version='2.0',
     packages=['cli'],
     long_description=long_description,
     long_description_content_type="text/markdown",
